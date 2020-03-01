@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = () => {
     return (
         <div>
-            first header component
+            Suivi de depenses
         </div>
     )
 }
